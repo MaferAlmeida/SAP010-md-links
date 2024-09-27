@@ -49,7 +49,6 @@ Comando: <br>
 
 ## 3. Fluxograma
 
-![fluxograma](./fluxograma.png)
 
 ## 4. Ferramentas utilizadas
 
